@@ -1,4 +1,4 @@
 print('123')
 a = 2
 print (a)
-print(a*3)
+print(a*5)
